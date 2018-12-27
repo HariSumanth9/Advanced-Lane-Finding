@@ -28,7 +28,7 @@ The goals / steps of this project are the following:
 [image3]: ./binary_threshold_test6.png "Color and Gradient Threshold"
 [image4]: ./binary_warped_test6.png "Warped Lane Image"
 [image5]: ./sliding_window_test6.png "Sliding Window"
-[image6]: ./neighbour_search_test6.png "Margin Search"
+[image6]: ./neighbour_search_test6_.png "Margin Search"
 [image7]: ./Final_test6.png "Final Output"
 [image8]: ./Chessboard.png "Undistorted Chessboard"
 [video1]: ./project_video_output.mp4 "Project Video"
